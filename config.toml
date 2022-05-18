@@ -1,0 +1,28 @@
+title = "Seminario sobre ∞-categorías"
+baseURL = "https://example.com"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = true          # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = ""
+  description = ""
+  favicon = "favicon.png"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Ubuntu"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#893101" #changed
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
