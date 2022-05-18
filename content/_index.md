@@ -11,7 +11,8 @@ y comenzará el segundo cuatrimestre de 2022.
 Más adelante realizaremos un encuentro para
 coordinar modalidad y horarios.
 
-De interesarte por favor llená este **[formulario](https://forms.gle/THVuCcF6x5KtpEbWA)**.
+De interesarte por favor llená este
+**[formulario](https://forms.gle/THVuCcF6x5KtpEbWA)**.
 
 [//]: # (------------- MathJax support --------------)
 
