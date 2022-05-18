@@ -1,8 +1,7 @@
 title = "Seminario sobre ∞-categorías"
 baseURL = "/"
 theme = "researcher"
-disableKinds = ["taxonomy", "term"]
-enableEmoji = true
+enableEmoji = false
 math = true          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
